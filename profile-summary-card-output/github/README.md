@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Chaha1n/Chaha1n/main/profile-summary-card-output/github/4-productive-time.svg)
+```
+
+    
