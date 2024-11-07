@@ -1,6 +1,5 @@
 ### Hi there 👋
-Go/TSを主に書いています。最近はAWS周りがアツいです。
-個人開発はぼちぼち...  
+Go/TSを主に書いています。最近はAWSとか，社会学とかをやっています。
 <!--
 **Chaha1n/Chaha1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
