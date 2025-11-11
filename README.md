@@ -1,5 +1,6 @@
 ### Hi there 👋
-Go/TSを主に書いています。最近はヒトと社会に興味があるので，文転して心理学とか社会学とかを学んでいます。
+Go/TSを主に書いていました。
+25年度中まではお休みをいただきます．
 <!--
 **Chaha1n/Chaha1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
